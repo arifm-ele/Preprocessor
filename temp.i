@@ -1,0 +1,1 @@
+#define add(x,y) (x+y) int main() { FILE fp=fopen("data","w"); int a=num,b=10,sum; fseek(fp,-1,SEEK_CUR); sum=add(a,b); printf("%d\n",sum); } 
